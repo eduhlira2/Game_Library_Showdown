@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 94c9cc0c2e8d2bf4bb1fcee9aa7aaeda
+timeCreated: 1473283042
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shakespeare_Especial_0
+    21300002: Shakespeare_Especial_1
+    21300004: Shakespeare_Especial_2
+    21300006: Shakespeare_Especial_3
+    21300008: Shakespeare_Especial_4
+    21300010: Shakespeare_Especial_5
+    21300012: Shakespeare_Especial_6
+    21300014: Shakespeare_Especial_7
+    21300016: Shakespeare_Especial_8
+    21300018: Shakespeare_Especial_9
+    21300020: Shakespeare_Especial_10
+    21300022: Shakespeare_Especial_11
+    21300024: Shakespeare_Especial_12
+    21300026: Shakespeare_Especial_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 257
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shakespeare_Especial_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.3449672, y: 0.4221014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 46
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.34177062, y: 0.4159516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 46
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.34177077, y: 0.4200514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 46
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.34336904, y: 0.4180014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 46
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.3392298, y: 0.4171325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 46
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.34108773, y: 0.41352993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 46
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.33627215, y: 0.41661817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.33989748, y: 0.41502804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.33713713, y: 0.41502804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.33792192, y: 0.41554758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.3404546, y: 0.40905136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.33792192, y: 0.4155477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.40983763, y: 0.43692166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Shakespeare_Especial_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 59
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4098371, y: 0.4421782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
