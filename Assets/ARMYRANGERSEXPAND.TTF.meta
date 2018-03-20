@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7b8b75cf0ec28fc4580e3e7cbac796ff
+timeCreated: 1521520975
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Army Rangers Expanded
+  fontNames:
+  - Army Rangers Expanded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
